@@ -8,4 +8,5 @@ it will contain links for blogs articles and Videos that I'll summarize it
 - - -
 |  day  |             Link             |               About                |
 | :---: | :--------------------------: | :--------------------------------: |
-|   1   | [Go to](./md401/class-26.md) |            Intro to Web3           |
+|   1   | [Go to](./assets/topic1/README.md) |            Intro to Web3           |
+|   1   | [Go to](./assets/topic2/README.md) |            not done yet            |
