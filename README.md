@@ -10,3 +10,4 @@ it will contain links for blogs articles and Videos that I'll summarize it
 | :---: | :--------------------------: | :--------------------------------: |
 |   1   | [Go to](./assets/topic1/README.md) |            Intro to Web3           |
 |   2   | [Go to](./assets/topic2/README.md) |            not done yet            |
+|   3   | [Go to](./assets/topic3/README.md) |            not done yet            |
